@@ -89,7 +89,7 @@ jupyter notebook
 
 ## Goals
 
-- Understand public sentiment towards Tokopedia through app reviews  
+- Understand public sentiment towards Shopee through app reviews  
 - Apply NLP techniques to clean and prepare real-world text data  
 - Train a supervised machine learning model for sentiment classification  
 - Evaluate the model's performance using metrics such as accuracy and F1-score
