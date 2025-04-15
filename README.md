@@ -3,6 +3,7 @@
 The main purpose of developing this sentiment analysis project is to fulfill the final capstone requirement of the **Machine Learning Development** learning path provided by **Dicoding**.  
 
 In addition, this project was built using **Jupyter Notebook** and **Python** to demonstrate the application of **Natural Language Processing (NLP)** and supervised machine learning in understanding people's perception of the Shopee mobile app through user reviews.
+
 ---
 
 ## Project Structure:
