@@ -78,12 +78,12 @@ jupyter notebook
 
 ## Technologies
 
-- **Python** 🐍  
-- **Pandas**, **NumPy** 📊  
-- **Scikit-learn** 🤖  
-- **BeautifulSoup**, **Requests** 🌐  
-- **NLTK / Sastrawi** ✂️ for Bahasa Indonesia text preprocessing  
-- **Jupyter Notebook** 📓  
+- **Python**   
+- **Pandas**, **NumPy**  
+- **Scikit-learn**   
+- **BeautifulSoup**, **Requests**   
+- **NLTK / Sastrawi** for Bahasa Indonesia text preprocessing  
+- **Jupyter Notebook**   
 
 ---
 
